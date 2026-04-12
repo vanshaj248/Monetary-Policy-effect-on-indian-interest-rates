@@ -1,0 +1,6 @@
+Variable,Q(10),p-value,Sig,Verdict
+Repo,23.9093,0.0078,***,Autocorrelated
+Y1,18.9356,0.0411,**,Autocorrelated
+Y3,31.8573,0.0004,***,Autocorrelated
+Y5,12.9036,0.2291,,No autocorrelation
+Y10,25.7548,0.0041,***,Autocorrelated

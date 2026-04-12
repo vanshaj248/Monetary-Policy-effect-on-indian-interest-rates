@@ -1,0 +1,10 @@
+Yield,EG t-stat,CV 5%,CV 1%,Cointegrated,Verdict,Equation,F-stat,q,df,p-value,Sig
+Y1,-4.4216,-3.34,-3.8,Yes,Long-run equilibrium,,,,,,
+Y3,-4.214,-3.34,-3.8,Yes,Long-run equilibrium,,,,,,
+Y5,-3.6083,-3.34,-3.8,Yes,Long-run equilibrium,,,,,,
+Y10,-3.2531,-3.34,-3.8,No,No cointegration,,,,,,
+,,,,,Structural break,Repo,1.8052,12.0,206.0,0.0491,**
+,,,,,Stable,Y1,0.7552,12.0,206.0,0.6959,
+,,,,,Stable,Y3,0.8487,12.0,206.0,0.6002,
+,,,,,Stable,Y5,0.598,12.0,206.0,0.8425,
+,,,,,Stable,Y10,0.5053,12.0,206.0,0.9099,

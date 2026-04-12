@@ -1,0 +1,9 @@
+Direction,Cause,Effect,F-statistic,df1,df2,p-value,Sig,Verdict
+Repo → Yield,Repo,Y1,8.1946,1,221,0.0046,***,Reject H0
+Yield → Repo (reverse),Y1,Repo,3.7435,1,221,0.0543,*,Fail to Reject H0
+Repo → Yield,Repo,Y3,4.7613,1,221,0.0302,**,Reject H0
+Yield → Repo (reverse),Y3,Repo,4.3189,1,221,0.0389,**,Reject H0
+Repo → Yield,Repo,Y5,3.2577,1,221,0.0725,*,Fail to Reject H0
+Yield → Repo (reverse),Y5,Repo,0.148,1,221,0.7008,,Fail to Reject H0
+Repo → Yield,Repo,Y10,1.4218,1,221,0.2344,,Fail to Reject H0
+Yield → Repo (reverse),Y10,Repo,0.0796,1,221,0.7781,,Fail to Reject H0

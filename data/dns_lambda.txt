@@ -1,0 +1,4 @@
+optimal_lambda=0.111335
+curvature_peak_months=8.98
+total_rmse=0.00219020
+diebold_li_us_lambda=0.0609

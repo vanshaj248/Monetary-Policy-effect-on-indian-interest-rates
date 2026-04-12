@@ -1,0 +1,5 @@
+Maturity,Maturity (months),Peak response,Peak at horizon,h=1 response,h=1 CI lo,h=1 CI hi,h=1 significant,Cumulative IRF,N sig horizons,First sig horizon,Last sig horizon
+Y1,12,0.14131,0,0.07785,0.03773,0.11352,Yes,0.26593,6,0,5
+Y3,36,0.10834,0,0.04413,0.01288,0.07239,Yes,0.17832,4,0,3
+Y5,60,0.0827,0,0.04174,0.01173,0.07026,Yes,0.14469,3,0,3
+Y10,120,0.08281,0,0.02773,0.0005,0.05123,Yes,0.12606,2,0,1

@@ -1,0 +1,5 @@
+Maturity,H0-1: Granger F,H0-1: p-value,H0-1: Sig,H0-1: Verdict,H0-2: Peak t,H0-2: p-value,H0-2: Verdict,H0-3: TP share (%),H0-3: p-value,H0-3: Verdict,FEVD Repo h=12 (%),Cointegrated
+1Y,8.1946,0.0046,***,Reject,3.0313,0.0024,Reject,93.57,0.0,Reject,20.35,Yes
+3Y,4.7613,0.0302,**,Reject,2.7966,0.0052,Reject,97.21,0.0,Reject,16.27,Yes
+5Y,3.2577,0.0725,*,Fail,2.2294,0.0258,Reject,97.8,0.0,Reject,10.61,Yes
+10Y,1.4218,0.2344,,Fail,2.1691,0.0301,Reject,98.9,0.0,Reject,10.62,No
